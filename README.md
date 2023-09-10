@@ -5,14 +5,6 @@
 
 
 
-
-
-
-
-# 💫 About Me:
-## About Me<br><br>👋 Hi, I'm Diwakar Mishra, an enthusiastic undergraduate student with a knack for intuitive problem-solving. Here's a bit about me:<br><br>- 🎓 I'm currently pursuing my undergraduate degree in Chandigarh University at Mohali Punjab, where I'm honing my skills and expanding my horizons in the world of technology.<br><br>- 💡 I have a passion for UI/UX design, and I'm well-versed in creating engaging and user-friendly interfaces. I believe that good design is at the heart of great user experiences.<br><br>- 💻 My coding toolkit includes proficiency in C++, HTML, and CSS. I enjoy building web and mobile applications that not only work seamlessly but also look amazing.<br><br>- 🚀 I'm all about innovation and launching new projects. I thrive on turning ideas into reality and bringing fresh concepts to life in the digital realm.<br><br>- 🌟 As an advocate for hands-on learning, I'm constantly seeking opportunities to apply my skills and collaborate on exciting projects. My GitHub is a showcase of my passion and commitment to creating meaningful tech solutions.<br><br>- 🌐 When I'm not coding or designing, you can find me exploring the ever-evolving tech landscape, discovering new trends, and staying inspired.<br><br>Let's connect and explore possibilities together! If you have a project in mind or just want to chat about tech, feel free to reach out.<br><br>📫 You can connect with me via email at diwakarmishra2626@gmail.com, and let's stay in touch on www.linkedin.com/in/diwakar-mishra- for future collaborations.<br>
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_diwakar_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_the_diwakar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/diwakar-mishra-) 
 
