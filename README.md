@@ -1,5 +1,5 @@
 # 💫 About Me:
-
+![logo](https : //giphy.com/clips/future-midjourney-chat-gpt-SNHd3FpcOrPHoBHtLD)
 <h1 align="center">Hi 👋, I'm Diwakar Mishra</h1>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
