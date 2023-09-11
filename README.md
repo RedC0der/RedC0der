@@ -1,5 +1,5 @@
 # 💫 About Me:
-<!-- ![logo] (https : //github . com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner .pnd)-->
+ ![logo](https://github.com/RedC0der/RedC0der/blob/main/Birthday.mp4)
 <h1 align="center">Hi 👋, I'm Diwakar Mishra</h1>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
