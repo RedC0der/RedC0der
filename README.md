@@ -1,6 +1,6 @@
 # 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮🎭:
  <div align="center" >
- <img width="600" height="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="logo">
+ <img width="650" height="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="logo">
 </div>
 <h1 align="center">नमस्कार🙏🪷 𝕀 𝔸𝕄 𝔻𝕀𝕎𝔸𝕂𝔸ℝ 𝕄𝕀𝕊ℍℝ𝔸💫</h1>
 
