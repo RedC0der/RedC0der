@@ -1,5 +1,6 @@
 # 💫 About Me:
- ![logo](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif) .
+ <img align="top" width="400" height="100" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="logo">
+
 <h1 align="center">Hi 👋, I'm Diwakar Mishra</h1>
 
 
