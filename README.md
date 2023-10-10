@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://instagram.com/_the_diwakar">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" style="width: 100px; height: 30px;">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" style="width: 30px; height: 30px;">
 </a>
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/diwakar-mishra-">
