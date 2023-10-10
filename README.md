@@ -1,5 +1,5 @@
 # 💫 About Me:
- ![logo](https://github.com/RedC0der/RedC0der/blob/main/ws.png)
+ ![logo](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
 <h1 align="center">Hi 👋, I'm Diwakar Mishra</h1>
 
 
