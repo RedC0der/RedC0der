@@ -13,15 +13,15 @@
 
 ## 🌐 Socials:
 <a href="https://discord.gg/_diwakar_">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" style="width: 30px; height: 30px;">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" style="width: 50px; height: 50px;">
 </a>
 
 <a href="https://instagram.com/_the_diwakar">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" style="width: 30px; height: 30px;">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" style="width: 50px; height: 50px;">
 </a>
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/diwakar-mishra-">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100px; height: 30px;">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width: 50px; height: 50px;">
 </a>
 
 
