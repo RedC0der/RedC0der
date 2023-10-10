@@ -5,7 +5,7 @@
 
 
 <h3 align="center">Aspiring computer science student with a passion for problem-solving and a focus on UI/UX design. Proficient in C++, HTML, and CSS, adept at creating visually appealing and user-friendly interfaces. Currently pursuing a degree in Computer Science, eager to apply my skills and contribute to innovative projects. Let's connect and explore opportunities in the exciting world of technology!</h3>
-<img align="left" alt="coding" width="40" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif'>
+<img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif'>
 
 
 
