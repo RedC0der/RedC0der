@@ -1,11 +1,11 @@
-# 💫 About Me:
+# 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮🎭:
  <img align="center" width="1000" height="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="logo">
 
-<h1 align="center">Hi 👋, I'm Diwakar Mishra</h1>
+<h1 align="center">नमस्कार🙏🪷 𝕀 𝔸𝕄 𝔻𝕀𝕎𝔸𝕂𝔸ℝ 𝕄𝕀𝕊ℍℝ𝔸💫</h1>
 
 
 <h3 align="center">Aspiring computer science student with a passion for problem-solving and a focus on UI/UX design. Proficient in C++, HTML, and CSS, adept at creating visually appealing and user-friendly interfaces. Currently pursuing a degree in Computer Science, eager to apply my skills and contribute to innovative projects. Let's connect and explore opportunities in the exciting world of technology!</h3>
-<img align="left" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif'>
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif'>
 
 
 
