@@ -44,7 +44,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RedC0der&icon=4&color=7)](https://visitcount.itsvg.in)
  <div align="center" >
- <img width="700" height="400" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="logo">
+ <img width="70" height="40" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="logo">
 </div>
 
 
