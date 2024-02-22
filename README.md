@@ -1,14 +1,14 @@
 # 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮🎭:
  <div align="center" >
- <img width="700" height="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="logo">
+<img  alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> 
 </div>
 <h1 align="center">नमस्कार🙏🪷 𝕀 𝔸𝕄 𝔻𝕀𝕎𝔸𝕂𝔸ℝ 𝕄𝕀𝕊ℍℝ𝔸💫</h1>
 
-<div align="left" >
+<div align="center" >
 <h3 >Aspiring computer science student with a passion for problem-solving and a focus on UI/UX design. Proficient in C++, HTML, and CSS, Javascript adept at creating visually appealing and user-friendly interfaces. Currently pursuing a degree in Computer Science, eager to apply my skills and contribute to innovative projects. Let's connect and explore opportunities in the exciting world of technology!
 </h3></div>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> 
+
 <img align="center" width="1100" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 
 
