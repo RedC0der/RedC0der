@@ -1,7 +1,10 @@
-# 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮🎭:
  <div align="center" >
 <img  alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> 
 </div>
+
+
+# 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮🎭:
+
 <h1 align="center">नमस्कार🙏🪷 𝕀 𝔸𝕄 𝔻𝕀𝕎𝔸𝕂𝔸ℝ 𝕄𝕀𝕊ℍℝ𝔸💫</h1>
 
 <div align="center" >
