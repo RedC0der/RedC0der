@@ -1,7 +1,9 @@
  <div align="center" >
 <img  alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> 
-</div>
 
+
+</div>
+<img align="center" width="1100" src=" https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h1 align="center">नमस्कार🙏🪷 𝕀 𝔸𝕄 𝔻𝕀𝕎𝔸𝕂𝔸ℝ 𝕄𝕀𝕊ℍℝ𝔸💫</h1>
 # 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮🎭:
 
