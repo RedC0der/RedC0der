@@ -26,7 +26,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" style="width: 50px; height: 50px;">
 </a>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/diwakar-mishra-">
+<a href="www.linkedin.com/in/diwakar-mishra-">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width: 50px; height: 50px;">
 </a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
