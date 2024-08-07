@@ -57,7 +57,7 @@ enthusiastic about leveraging my skills and growing within the software developm
 
 <!-- <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083">
 <!--<a href="https://www.codechef.com/users/anmol119">
-href="https://auth.geeksforgeeks.org/user/anmolbaranwal119">-->
+<!--href="https://auth.geeksforgeeks.org/user/anmolbaranwal119">-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RedC0der&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
