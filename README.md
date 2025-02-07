@@ -70,8 +70,6 @@ enthusiastic about leveraging my skills and growing within the software developm
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RedC0der&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RedC0der&icon=4&color=7)](https://visitcount.itsvg.in)
