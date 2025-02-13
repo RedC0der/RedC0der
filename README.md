@@ -55,14 +55,7 @@ enthusiastic about leveraging my skills and growing within the software developm
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!-- <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083">
-<!--<a href="https://www.codechef.com/users/anmol119">
-<!--href="https://auth.geeksforgeeks.org/user/anmolbaranwal119">-->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RedC0der&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RedC0der&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedC0der&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RedC0der&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
@@ -71,13 +64,15 @@ enthusiastic about leveraging my skills and growing within the software developm
 ![](https://github-contributor-stats.vercel.app/api?username=RedC0der&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RedC0der&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RedC0der&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedC0der&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=RedC0der&icon=4&color=7)](https://visitcount.itsvg.in)
  <div> 
  
- <!--  <img width="700"height="40"src="https://camo.githubusercontent.com/97d1ede7c36ac0a9e1014bc1c4e2fc77b81181706f74c2143d958bd5b9359017/68747470733a2f2f63756c746f66746865706 1727479706172726f742e636f6d2f706172726f74732f68642f6879706e6f706172726f746461726b2e676966">
--->
- <div>
   <img>
  <img width="1000" height="80" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" >
 </div>
