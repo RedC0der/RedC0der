@@ -28,7 +28,7 @@ enthusiastic about leveraging my skills and growing within the software developm
 
 </a><a href="https://www.linkedin.com/in/diwakar-mishra-">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width: 50px; height: 50px;">
-</a>
+
 <a href="https://discord.gg/_diwakar_">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" style="width: 50px; height: 50px;">
 </a>
