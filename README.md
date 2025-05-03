@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center">नमस्कार🪷💫</h1>
+<h1 align="center">नमस्कार🪷</h1>
 
 
 <h3 align="center" >*Turning caffeine into questionable commits since forever🎭*
