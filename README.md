@@ -6,15 +6,9 @@
 
 
 <h1 align="center">नमस्कार🙏🪷💫</h1>
-# 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮🎭:
 
-<h3 align="center" >As a recent graduate with a passion for software development, I have a strong foundation in programming
-languages such as C/C++ and JavaScript. My academic background has provided me with skills in
-HTML5, CSS, React.js, and Node.js, enabling me to build dynamic web applications. I am also keen
-to expand my expertise in backend development, further enhancing my ability to create comprehensive
-software solutions. Committed to mastering UI/UX design principles, I aim to develop intuitive and
-user-friendly interfaces. Eager to tackle real-world challenges and contribute to innovative projects, I am
-enthusiastic about leveraging my skills and growing within the software development industry!
+
+<h3 align="center" >*Turning caffeine into questionable commits since forever🎭*
 </h3
 
 
